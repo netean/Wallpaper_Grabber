@@ -1,0 +1,1 @@
+powershell -file ./grab-bing-daily-wallpaper.ps1
